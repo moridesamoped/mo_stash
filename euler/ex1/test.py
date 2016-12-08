@@ -18,4 +18,5 @@ for i in range(max):
 
 print(sum(x))
 
+# vom
 
